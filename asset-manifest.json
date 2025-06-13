@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lib-svg-icons-dashbaord/static/css/main.e6c13ad2.css",
+    "main.js": "/lib-svg-icons-dashbaord/static/js/main.7df3e7c7.js",
+    "static/js/453.b4b7c552.chunk.js": "/lib-svg-icons-dashbaord/static/js/453.b4b7c552.chunk.js",
+    "index.html": "/lib-svg-icons-dashbaord/index.html",
+    "main.e6c13ad2.css.map": "/lib-svg-icons-dashbaord/static/css/main.e6c13ad2.css.map",
+    "main.7df3e7c7.js.map": "/lib-svg-icons-dashbaord/static/js/main.7df3e7c7.js.map",
+    "453.b4b7c552.chunk.js.map": "/lib-svg-icons-dashbaord/static/js/453.b4b7c552.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7df3e7c7.js"
+  ]
+}
